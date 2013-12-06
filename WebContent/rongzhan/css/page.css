@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+.right .ynr .xwlb {
+	width:715px;
+	min-height: 610px;
+	height: auto !important; 
+	height: 610px;
+	margin:0 auto;
+	padding-top:3px;
+}
+.xwlb .xwbt {
+	font-size:18px;
+	text-align:center;
+	color:#9b714b;
+	font-weight:bold;
+	line-height:40px;
+}
+.xwlb .rq {
+	text-align:center;
+	height:28px;
+	background-color:#d3d4d5;
+	line-height:28px;
+	color:#c49c4f;
+	font-size:14px;
+	margin-bottom:3px;
+}
+.xwlb p {
+	text-indent:2em;
+	line-height:20px;
+}
+/*----旗下品牌---*/
+.neirong .yqdz {
+	width:715px;
+}
+.neirong .qxppzj {
+	background:url(../images/qxpp_zj.gif) repeat-y 0 0;
+}
+.qxppzjnr {
+	width:702px;
+	margin:0 auto;
+}
+.qxppzjnr .left1 {
+	float:left;
+	width:229px;
+	display:inline;
+}
+.qxppzjnr .left1  p{
+	text-indent:2em;
+}
+.left1 p span {
+	color:#9b724c;
+}
+.left1 .lg {
+	width:229px;
+	text-align:center;
+	margin-top:5px;
+}
+.left1 .lgg {
+	width:229px;
+	text-align:center;
+	margin-top:130px;
+}
+.left1 p {
+	font-weight:bold;
+}
+.qxppzjnr .right1{
+	width:463px;
+	float:left;
+	display:inline;
+}
+.right1 .r01 {
+	width: 463px;
+	min-height: 110px;
+	height: auto !important; 
+	height: 110px;
+}
+.right1 .tupian {
+	width:120px;
+	float:left;
+	margin-top:5px;
+}
+.right1 .mingcheng {
+	width:336px;
+	float:left;
+	margin-top:0px;
+	padding-top:8px;
+	margin-left:6px;
+	line-height:20px;
+}
+.right1 .mingcheng span{
+	color:#F00;
+}
